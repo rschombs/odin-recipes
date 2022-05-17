@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: green;
+    font-family: Garamond, sans-serif;
+}
+
+p {
+    color: purple;
+    font-size: 24px;
+}
+
+ul {
+    background-color: grey;
+}
+
+ol {
+    background-color: skyblue;
+}
